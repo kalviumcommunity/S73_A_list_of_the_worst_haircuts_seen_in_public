@@ -1,0 +1,2 @@
+# S73_A_list_of_the_worst_haircuts_seen_in_public
+This is your first repository
