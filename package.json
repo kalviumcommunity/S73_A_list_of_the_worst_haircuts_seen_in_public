@@ -1,0 +1,11 @@
+{
+  "name": "s73_a_list_of_the_worst_haircuts_seen_in_public",
+  "version": "1.0.0",
+  "description": "🐢 List_of_the_Worst_Haircuts_Seen_in_Public 🐢\r Welcome to List_of_the_Worst_Haircuts_Seen_in_Public! This is your one-stop-shop for ogling the most disastrous hairdos that have ever dared to emerge from the safety of four walls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shriraj jadhav",
+  "license": "ISC"
+}
