@@ -39,4 +39,4 @@ Why i choose this Project = You probably chose this project because it's a fun
  way to combine technology with humor. It lets you share and laugh about bad 
  haircuts, and also help people learn what to avoid when getting their hair done.
  Plus, it's a cool project to work on, where you can use coding skills to make 
- a fun and useful website for everyone to enjoy! 
+ a fun and useful website for everyone to enjoy !!!   
